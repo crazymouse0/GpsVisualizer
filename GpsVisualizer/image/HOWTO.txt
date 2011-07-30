@@ -1,4 +1,4 @@
-画像の作り方
+コース画像のすげ換え方
 1. PDFXVwer をインストールする。http://www.forest.impress.co.jp/lib/dl/p/pdfxchange/PDFXVwer.exe_dl.html
 2. ロボコン公式サイトより「本番コースデータ　1/2サイズ」のPDFファイルをダウンロードする。
 3. PDFXVwer でコースデータを開く
@@ -7,4 +7,6 @@
  Page Zoome: 17.64% (1820 x 1213 pixels となるように微調整)
  Resolution: 96dpi
  ファイル名を GpsVisualizer\image\course.png として置く
-5. GpsVisualizer.sln を開き、ビルド > ソリューションのリビルド
+5. GpsVisualizer.sln を開き、
+ ビルド > 構成マネージャ > アクティブソリューション構成「Release」
+ ビルド > ソリューションのリビルド

@@ -61,3 +61,27 @@ C:\Documents and Settings\kachirobo\デスクトップ\visualizer\GpsVisualizer\
 C:\Documents and Settings\kachirobo\デスクトップ\visualizer\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.application
 C:\Documents and Settings\kachirobo\デスクトップ\visualizer\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.exe
 C:\Documents and Settings\kachirobo\デスクトップ\visualizer\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.pdb
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Debug\GpsVisualizer.exe.config
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Debug\GpsVisualizer.exe
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Debug\GpsVisualizer.pdb
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Release\GpsVisualizer.exe.config
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.exe
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.pdb
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Release\GpsVisualizer.exe.manifest
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Release\GpsVisualizer.application
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Release\GpsVisualizer.exe
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\bin\Release\GpsVisualizer.pdb
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\ResolveAssemblyReference.cache
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.image.finishPoint.png
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.image.startPoint.png
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.image.course.png
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.AngleWindow.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.ColumnAssigner.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.CourseView.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.MainWindow.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.Properties.Resources.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.DebugOut.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.AngleEditorControl.resources
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.csproj.GenerateResource.Cache
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.exe.manifest
+C:\cygwin\home\GpsVisualizer\GpsVisualizer\obj\Release\GpsVisualizer.application
